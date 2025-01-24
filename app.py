@@ -8,7 +8,7 @@ from phi.tools.yfinance import YFinanceTools
 from phi.tools.duckduckgo import DuckDuckGo
 from phi.tools.googlesearch import GoogleSearch
 
-GROQ_API_KEY = "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" 
+GROQ_API_KEY = "Add your groq api key here" 
 
 COMMON_STOCKS = {
     'NVIDIA': 'NVDA', 'APPLE': 'AAPL', 'GOOGLE': 'GOOGL', 'MICROSOFT': 'MSFT',
